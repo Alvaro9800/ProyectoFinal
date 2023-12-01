@@ -1,0 +1,7 @@
+MULATO MACHUCA ALVARO DEYVI
+
+INGRESO A BACKEND:
+Usuario: Alvaro
+Contraseña : 123456789
+
+Version de Xampp: 7.3.0
